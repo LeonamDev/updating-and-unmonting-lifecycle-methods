@@ -10,9 +10,9 @@ The first time that a component instance renders, it does not update. A componen
 
 There are five updating lifecycle methods:
 
-componentWillReceiveProps
-shouldComponentUpdate
-componentWillUpdate
-render
-componentDidUpdate
+componentWillReceiveProps</br>
+shouldComponentUpdate</br>
+componentWillUpdate</br>
+render</br>
+componentDidUpdate</br>
 Whenever a component instance updates, it automatically calls all five of these methods, in order.
